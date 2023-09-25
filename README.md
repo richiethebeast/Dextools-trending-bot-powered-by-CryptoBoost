@@ -1,12 +1,9 @@
-# Dextools-Trending-Bot
-A Dextool Trending bot which makes a Token Trending on Dextools with BUY/SELL Sniper Bot using Python Software. @TheLokiDev
+# Dextools-Trending-Bot Powered By CryptoBoost
 
-</p>
 
 <p align="center">
   <a href="#about">About</a>
   •
-  <a href="#features">Features</a>
   •
   <a href="#installation">Installation</a>
   •
@@ -14,39 +11,15 @@ A Dextool Trending bot which makes a Token Trending on Dextools with BUY/SELL Sn
   •
   <a href="#Contact">Contact</a>
   •
-  <a href="#Images">Images</a>
 </p>
 
 <p align="center"><a href="https://youtu.be/1rZJn9-qRLs" target="_blank"><img src="https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/Dextools%20Trending%20Bot.png?raw=true"></a></p>
 
 ## About
-A Dextool Trending bot which makes a Token Trending on Dextools with BUY/SELL Sniper Bot using Python Software.
+The Trending Bot developed by Crypto Boost is an innovative tool designed to boost the visibility and popularity of tokens on Dextools. Using advanced algorithms and automation, this bot increases visibility and attracts attention from traders and investors. With customizable requirements and integration with the Buy/Sell Bot,the Trending Bot strategically generates high trading volumes to help tokens break through the algorithmic barriers and reach the desired trending positions
 
-If you are interested, go through here. <a href="#Contact">Contact</a>
 
-also make sure to read this file [Read this](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/READ%20THIS.docx)
-
-## Features
-- Search for your token ✓
-- Click Contact Address ✓
-- Click Favourite Button ✓ 
-- Click website link ✓
-- Click Telegram Link ✓
-- Click instagram link ✓
-- Click facebook link ✓
-- Click discord link ✓
-- Click Swap Button ✓
-- Scrolling the page ✓
-
-## Additional Features 
-- Buy/Sell Sniper Bot ✓
-- Buy a High amount ✓
-- sell low amount/ exact half of Buy amount/sell all back ✓
-- Buy/Sell Sleep Time ✓
-- Generate Automatic Payment Address ✓ (support all network)
-- Buy/Sell transaction Hash ✓
-- Buy/Sell till you stop the bot ✓
-- Buy sell with Multiple Wallet address ✓
+also make sure to read this file [Read this](https://github.com/CryptoBoostAgency/Dextools-trending-bot-powerd-by-CryptoBoost/blob/main/MUST%20READ.docx)
 
 ## Installation
 Step 1: Download and install python latest version with must tick on set python environment variable
@@ -55,30 +28,27 @@ Step 2: Double click on setup.bat
 
 Step 3: open the config.json file and put your proxy and your Dextools Token Link 
 
+CONTACT US FOR USER NAME AND PASSWORD
+
 Step 4: run script using Bot.bat file
+
 
 
 Threads and Running Speed Depends on your PC specs & Network Speed...
 
-If not I will guide you to install the bot.
 
 ## Youtube
-Find me on Youtube : https://www.youtube.com/channel/UC98Yc8dJXDg6bW2ZtW4Sdcg
+Find me on Youtube 
+F
 
-TUTORIAL Video : https://youtu.be/1rZJn9-qRLs
+TUTORIAL Video : 
 
 Watch this video for more Information & Demo 
 
 # Contact
-If you are interested and Want to buy it, Feel free to contact me.
+contact us 
 
-Telegram : [@TheLokiDev](https://t.me/TheLokiDev)
+Telegram : [@CryptoBoostCeo](https://t.me/cryptoboostCeo)
 
-To Get Official announcements or Updates Join here : [Telegram Channel](https://t.me/TheLokiDev_Channel)
-
-## Images
-![Dextools Trending Bot](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/1.png)
-![Dextools Trending Config File](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/2.png)
-![Buy/Sell Bot](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/3.png)
-![Buy/Sell Bot Setup](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/buysellbot%20setup.png)
-![Dextools Trending Bot](https://github.com/TheLokiDev/Dextools-Trending-Bot/blob/main/Buysell%20bot.png)
+To Get Official announcements or Updates Join here : [Telegram Channel](https://t.me/crypto_boost_agency)
+p
