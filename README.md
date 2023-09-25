@@ -2,11 +2,11 @@
 
 
 <p
-  <a href="#about">About</a>
+    <ahref="#about">About</a>
   •
   <a href="#installation">Installation</a>
   •
-  <a href="#Tutorial ">tatorial us</a>
+  <a href="#Tutorial ">Tutorial</a>
   •
   <a href="#Contact">Contact</a>
   •
