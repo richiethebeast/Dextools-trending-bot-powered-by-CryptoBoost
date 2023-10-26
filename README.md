@@ -63,4 +63,4 @@ I will help to install the program.
 
 
 ## Youtube
-Please watch [youtube video](https://youtu.be/knwsA7hCPoA) for more information and demo. If you are interested you can dm me : [@kthenurseone](https://t.me/kthenurseone)
+Please watch [youtube video](https://youtu.be/knwsA7hCPoA) for more information and demo. If you are interested you can dm me : [@richiethebeast](https://t.me/richiethebeast)
